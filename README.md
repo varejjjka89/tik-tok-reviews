@@ -1,4 +1,4 @@
-#  This repository contains analysis of reviews users leabe on tik-tok. 
+#  This repository contains analysis of reviews users leave on tik-tok. 
 ## Initial data was loaded from Kaggle, analysis was completed in Google BigQuery 
 
 Please find the following information in this repository:
